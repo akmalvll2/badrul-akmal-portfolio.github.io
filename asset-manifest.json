@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/badrul-akmal-portfolio.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/badrul-akmal-portfolio.github.io/static/js/main.bc53c738.js",
+    "static/js/787.cda612ba.chunk.js": "/badrul-akmal-portfolio.github.io/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/badrul-akmal-portfolio.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/badrul-akmal-portfolio.github.io/index.html",
+    "main.073c9b0a.css.map": "/badrul-akmal-portfolio.github.io/static/css/main.073c9b0a.css.map",
+    "main.bc53c738.js.map": "/badrul-akmal-portfolio.github.io/static/js/main.bc53c738.js.map",
+    "787.cda612ba.chunk.js.map": "/badrul-akmal-portfolio.github.io/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc53c738.js"
+  ]
+}
