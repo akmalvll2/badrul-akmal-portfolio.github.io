@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.9906c092.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "index.html": "/index.html",
-    "main.9906c092.js.map": "/static/js/main.9906c092.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/badrul-akmal-portfolio.github.io/static/css/main.c16c3278.css",
+    "main.js": "/badrul-akmal-portfolio.github.io/static/js/main.58649f5d.js",
+    "static/js/787.cda612ba.chunk.js": "/badrul-akmal-portfolio.github.io/static/js/787.cda612ba.chunk.js",
+    "index.html": "/badrul-akmal-portfolio.github.io/index.html",
+    "main.c16c3278.css.map": "/badrul-akmal-portfolio.github.io/static/css/main.c16c3278.css.map",
+    "main.58649f5d.js.map": "/badrul-akmal-portfolio.github.io/static/js/main.58649f5d.js.map",
+    "787.cda612ba.chunk.js.map": "/badrul-akmal-portfolio.github.io/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.9906c092.js"
+    "static/css/main.c16c3278.css",
+    "static/js/main.58649f5d.js"
   ]
 }
